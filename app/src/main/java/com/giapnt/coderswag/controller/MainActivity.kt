@@ -1,7 +1,8 @@
-package com.giapnt.coderswag
+package com.giapnt.coderswag.controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.giapnt.coderswag.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
